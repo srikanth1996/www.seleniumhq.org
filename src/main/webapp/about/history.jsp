@@ -82,7 +82,7 @@
 
   <h3>Selenium-IDE: Made in Japan</h3>
 
-  <p><a href="http://www.linkedin.com/pub/4/488/702">Shinya
+  <p><a href="https://github.com/kasatani">Shinya
   Kasatani</a> in Japan became interested in Selenium, and realised
   that he could wrap the core code into an IDE module into the
   Firefox browser, and be able to record tests as well as play them
